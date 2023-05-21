@@ -5,6 +5,6 @@
 
 #2.Logistic Regression (Tried and Tested code)
 
-#3.Stocgastic Gradient Descent(Tried and Tested Code)
+#3.Stochastic Gradient Descent(Tried and Tested Code)
 
 #4.Neural Networks (coming soon)
